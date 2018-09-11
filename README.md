@@ -30,6 +30,16 @@ Installation:
 
 Both server side resource and client side files are set up to be drag and drop for easy install 
 
+UPDATE 09/11/2018 - v1.4
+
+Updated Mapping : Updated Mile Markers to Major Highways / Interstates
+Updated Mapping : Added Interstate Routes to Mapping
+Fixed: Multiple Duplicate Block Numbers - Thanks to @Bendacat for duplicate numbers -
+
+Added: Optional Mapping with Los Santos County / Blaine County border - added for communities wanting to have multiple sheriff offices with a lore friendly base…
+
+===============================================================================================================================================
+
 Server Resource = 
 
 1) add the map folder to the resources folder within your FX Server 
