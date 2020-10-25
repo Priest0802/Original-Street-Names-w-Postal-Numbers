@@ -4,6 +4,7 @@
 
 ## SAFR Server Change Logs
 
+* [SAFR Server Update 10/25/20](safr-server-change-logs/safr-server-update-10-25-20.md)
 * [SAFR Server Update 09/30/20](safr-server-change-logs/safr-server-update-09-30-20.md)
 * [SAFR Server Update 09/25/20](safr-server-change-logs/safr-server-update-09-25-20.md)
 * [SAFR Server Update 04/23/20](safr-server-change-logs/safr-server-update-04-23-20.md)
